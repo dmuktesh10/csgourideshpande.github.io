@@ -112,9 +112,9 @@ nav ul li a:hover {
 }
 
 nav ul li {
-    background: #eb5273;
+    background: #778899;
 }
-/* 
+/*
 nav ul li:nth-child(2) {
     background: #00b9ef;
 }
@@ -325,7 +325,7 @@ h3.pos-title1 {
     font-size: 4em;
     text-transform: uppercase;
     margin-bottom: 0.5em;
-    color: #eb5273;
+    color: #778899;
     text-align: center;
     font-weight: 300;
 }
@@ -338,8 +338,8 @@ ul.about-list li {
 
 a.wthree-.about-link {
     color: #fff;
-    border: 1px solid #eb5273;
-    background: #eb5273;
+    border: 1px solid #778899;
+    background: #778899;
     border-radius: 0;
     width: 100%;
     padding: 10px 20px;
@@ -623,8 +623,8 @@ figcaption.port-gird-caption-agileits_w3layouts:hover {
 
 .simplefilter li.active,
 .simplefilter li:hover {
-    background: #eb5273;
-    border: 1px solid #eb5273;
+    background: #778899;
+    border: 1px solid #778899;
     color: #fff;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -744,7 +744,7 @@ li.blog-icon-left a {
 }
 
 .blog-bottom {
-    background: #eb5273;
+    background: #778899;
     padding: 2em;
 }
 
@@ -879,7 +879,7 @@ div#services {
 }
 
 .serv-txt span {
-    background: #eb5273;
+    background: #778899;
     border: none;
     color: #fff;
 }
@@ -889,7 +889,7 @@ div#services {
 }
 
 .icon1 .fa {
-    color: #eb5273;
+    color: #778899;
 }
 
 .icon3 .fa {
@@ -918,7 +918,7 @@ div#services {
 }
 
 .icon1 .fa:hover {
-    background: #eb5273;
+    background: #778899;
 }
 
 .icon3 .fa:hover,
@@ -1140,20 +1140,20 @@ h3.title-contact {
     color: #000;
     outline: none;
     border: 1px solid #fff;
-    border-bottom: 2px solid #eb5273;
+    border-bottom: 2px solid #778899;
     background: #fff;
     -webkit-appearance: none;
 }
 
 .subscribe-main input[type="submit"]:hover {
-    background: #eb5273;
+    background: #778899;
     color: #fff;
 }
 
 .subscribe-main input[type="submit"] {
     width: 20%;
     float: left;
-    color: #eb5273;
+    color: #778899;
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
@@ -1397,7 +1397,7 @@ ul.w3-links li a i.fa:hover {
 }
 
 .footer-main p a {
-    color: #ea4c89;
+    color: #778899;
     text-decoration: none;
     -webkit-transition: .5s all;
     -moz-transition: .5s all;
@@ -1421,7 +1421,7 @@ span.icon_facebook {
 }
 
 span.icon_dribbble {
-    background: #ea4c89;
+    background: #778899;
 }
 
 span.icon_g_plus {
@@ -1881,7 +1881,7 @@ span.icon_g_plus {
 		-webkit-flex: 1;          /* Chrome */
 		-ms-flex: 1;              /* IE 10 */
 		flex: 1;                  /* NEW, Spec - Opera 12.1, Firefox 20+ */
-	
+
     }
 }
 
@@ -1913,7 +1913,7 @@ span.icon_g_plus {
     .navbar-default .navbar-toggle:hover,
     .navbar-default .navbar-toggle:focus,
     .navbar-default .navbar-toggle {
-        background-color: #eb5273;
+	        background-color: #778899;
         color: #fff;
         margin: 0;
     }
